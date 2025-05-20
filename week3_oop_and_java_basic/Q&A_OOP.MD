@@ -3,11 +3,12 @@
 
 1. Lập trình hướng đối tượng là gì? So sánh với hướng lập trình thủ tục
 
-- Answer:
+- Answer: Lập trình hướng đối tượng là lập trình xoay quanh đối tượng (objects). Mỗi đối tượng được tạo ra trên khuôn mẫu cụ thể gọi là class
 
 2. Giải thích 4 nguyên tắc cơ bản OOP: Encapsulation, abstraction, Inheritance, Polymorphism
 
 - Answer:
+    + Encapsulation: tính đóng gói là 
 
 3. Interface và abstract Class khác nhau như thế nào?
 
