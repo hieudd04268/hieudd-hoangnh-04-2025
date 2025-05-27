@@ -1,0 +1,5 @@
+[INFO] Ứng dụng khởi tạo thành công
+[ERROR] Kết nối database thất bại
+[INFO] Đang thử kết nối lại...
+[WARNING] Bộ nhớ sử dụng cao
+[ERROR] Không thể đọc file config.properties

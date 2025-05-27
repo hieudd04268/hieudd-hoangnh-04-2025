@@ -1,0 +1,6 @@
+[2025-05-27 10:08:39] File: sample.log | [ERROR] Kết nối database thất bại
+[2025-05-27 10:08:39] File: sample.log | [ERROR] Không thể đọc file config.properties
+[2025-05-27 10:09:04] File: test_1748315344144.log | [ERROR] This is a test error message
+[2025-05-27 10:09:04] File: test_1748315344144.log | [ERROR] Another test error for demonstration
+[2025-05-27 10:09:04] File: test_1748315344144.log | [ERROR] This is a test error message
+[2025-05-27 10:09:04] File: test_1748315344144.log | [ERROR] Another test error for demonstration
